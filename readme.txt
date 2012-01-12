@@ -1,5 +1,5 @@
 === WP Date Remover ===
-Contributors: Omar Usman
+Contributors: Internet Marketing Lab
 Donate link: http://internetmarketinglab.net
 Tags: remove date post, remove wordpress date
 Requires at least: 2.0.2
