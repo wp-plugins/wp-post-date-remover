@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: WP Post Date Remover
+Plugin Name: WP Date Remover
 Plugin URI: http://internetmarketinglab.net/internet-marketing-tools/wordpress-wp-post-date-remover
 Description: The best wordpress post date remover so far.
 Author: Omar
-Version: 1.5
+Version: 1.0
 Author URI: http://internetmarketinglab.net
 */
 
