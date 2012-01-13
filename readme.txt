@@ -3,7 +3,7 @@ Contributors: Internet Marketing Lab
 Donate link: http://internetmarketinglab.net
 Tags: remove date post, remove wordpress date
 Requires at least: 2.0.2
-Tested up to: 2.1
+Tested up to: 3.3.1
 Stable tag: 1.0
 
 This is a wordpress plugin that removes or hide date of a particular post or page in your wordpress blog.
@@ -42,6 +42,7 @@ Unfortunately, no. But I'm working on it.
 == Changelog ==
 
 = 1.0 =
+* Tested on the latest Wordpress version.
 * Remove date of post, page and homepage.
 
 == Upgrade Notice ==

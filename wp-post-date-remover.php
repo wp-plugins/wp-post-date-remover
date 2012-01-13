@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP Date Remover
 Plugin URI: http://internetmarketinglab.net/internet-marketing-tools/wordpress-wp-post-date-remover
-Description: The best wordpress post date remover so far.
+Description: This is a wordpress plugin that removes or hide date of a particular post or page in your wordpress blog.
 Author: Omar
 Version: 1.0
 Author URI: http://internetmarketinglab.net
